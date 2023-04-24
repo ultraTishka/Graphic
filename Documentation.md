@@ -15,6 +15,7 @@ gr = graphic(30, 30, '  ')
 ## Аргументов не принимает
 ### Программа:
 ```python
+from graphic import graphic
 gr = graphic(30, 30, '  ')
 gr.draw()
 ```
